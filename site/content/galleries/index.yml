@@ -1,0 +1,42 @@
+- name: Serena
+  slug: /
+  photos:
+    - title: USA
+      alt: USA
+      url: https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80   
+    - title: Marrakesh
+      alt: Marrakesh
+      url: https://images.unsplash.com/photo-1570133435529-62359fac701b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80
+    - title: San Francisco
+      alt: San Francisco
+      url: https://images.unsplash.com/photo-1583743220494-3da91330c2fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1001&q=80
+    - title: Italy
+      alt: Italy
+      url: https://images.unsplash.com/photo-1583855282680-6dbdc69b0932?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80
+    - title: Philippines
+      alt: Philippines
+      url: https://images.unsplash.com/photo-1583841549298-ac61d2378c73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2090&q=80
+    - title: Shibuya
+      alt: Shibuya
+      url: https://images.unsplash.com/photo-1583536363246-f2d0fcf8ec92?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80
+    - title: Canada
+      alt: Canada
+      url: https://images.unsplash.com/photo-1548704807-5e3622c539a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80
+    - title: USA
+      alt: USA
+      url: https://images.unsplash.com/photo-1583427551602-bf2bb7abb9b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=943&q=80
+    - title: Moscow
+      alt: Moscow
+      url: https://images.unsplash.com/photo-1580489958137-ca0bfaa1cc36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2687&q=80
+    - title: Brasil
+      alt: Brasil
+      url: https://images.unsplash.com/photo-1583161443085-2e2947a6664c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80
+    - title: France
+      alt: France
+      url: https://images.unsplash.com/photo-1572956056930-bdc5aca0b379?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+    - title: Barcelona
+      alt: Barcelona
+      url: https://images.unsplash.com/photo-1583422409516-2895a77efded?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80 
+    - title: Thailand
+      alt: Thailand
+      url: https://images.unsplash.com/photo-1583511416766-083ba12de77c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
