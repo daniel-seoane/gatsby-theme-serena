@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 /** @jsx jsx */
 import { jsx, Box, Flex, MenuButton, Close } from "theme-ui";
 import { useResponsiveValue } from "@theme-ui/match-media";

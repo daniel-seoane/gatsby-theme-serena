@@ -1,7 +1,19 @@
 {
   "name": "gatsby-theme-serena",
-  "version": "1.0.0",
+  "description": "A minimalist Gatsby theme designed for photography and portfolios — with a masonry grid and lightbox",
+  "version": "1.0.1",
+  "author": "Daniel Seoane <hello@dseoane.com>",
+  "homepage": "https://github.com/daniel-seoane/gatsby-theme-serena",
+  "repository": "https://github.com/daniel-seoane/gatsby-theme-serena",
+  "bugs": {
+    "url": "https://github.com/daniel-seoane/gatsby-theme-serena/issues"
+  },
   "main": "index.js",
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
