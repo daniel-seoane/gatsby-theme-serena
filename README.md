@@ -1,3 +1,7 @@
+⚠️ Warning! ⚠️
+
+This repository hasn't been maintained in a long time.
+
 ![gatsby-theme-serena image cover](https://media.publit.io/file/gatsbyThemeSerena/serena-theme-cover.png)
 
 # Serena Theme
