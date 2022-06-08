@@ -28,10 +28,6 @@ Check out the [live demo](https://gatsby-theme-serena-demo.netlify.com)
 
 ![Perfect Lighthouse score](https://media.publit.io/file/gatsbyThemeSerena/serena-perfect-score-lighthouse.png )
 
-## 🌐Showcase
-
-Your project using this theme goes here
-
 ## 🚀Installation
 
 ### New site
@@ -195,14 +191,6 @@ You can use remote or local images, but if you use remote images you cannot use 
 Remember that you can use shadowing
 
 [Shadowing in Gatsby Themes](https://www.gatsbyjs.org/docs/themes/shadowing/)
-
-## ✋Support
-
-If you want to thank me or support this project you can buy me a coffee
-
-<a href="https://www.buymeacoffee.com/3fw5qHM" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
-Issues and pull requests are welcome
 
 ## License
 
